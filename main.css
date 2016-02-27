@@ -1,0 +1,13 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+h1 {
+  margin: 0;
+  font-size: 40px;
+}
+body {
+
+}
+.wrap {
+  min-height: 300vh;
+  background: linear-gradient(tomato, crimson);
+}
