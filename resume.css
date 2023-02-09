@@ -21,14 +21,14 @@ body {
 }
 .left {
     position: initial;
-    background-color: rgb(126, 219, 231);
-    padding: 20px;
+    background-color: rgb(232, 229, 221);
+    padding: 10px;
  
 }
 .right {
     position: initial;
-    background-color: rgb(162, 202, 206);
-    padding: 20px;
+    background-color: rgb(239, 229, 221);
+    padding: 10px;
  
 }
 .image, .Contact, .Skills, .Language, .Hobbies, .title,
